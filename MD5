@@ -1,0 +1,12 @@
+c10de5d1808130be88b414a3a63a8f53 *DESCRIPTION
+748e2105ddf5ccb7aad20bdd55fa7b83 *NAMESPACE
+149a1334678f8b9a35a2c053c4ea892f *NEWS.md
+ccb7050e8bab23aecb0f55501d73ae85 *R/expect_equal.R
+c66a33e890dfe2a7adceb225a7d76c2e *R/expect_true.R
+86d0757c9b74dff99b370f257bb310cc *R/ttm.R
+c2e33559e1e0297663cb71ea58e57661 *README.md
+1e49ccee3aa0a2269fc86bf7f30a56da *man/ttm.Rd
+399632bc9de1dfd96fcc2072b8422e06 *man/ttm_expect_equal.Rd
+73a52fe7b63b27caeee3be7ef1856293 *man/ttm_expect_true.Rd
+40bbabf8baf4967024d0691264f537c8 *tests/testthat.R
+78ac7ebe339ea785f58f345cfbeac2e7 *tests/testthat/test_ttm.R
