@@ -54,8 +54,8 @@ iteration. In the code for the tests, replace `expect_true` with
 `ttm_expect_true` and `expect_equal` with `ttm_expect_equal`.
 
 Below, we run the same test as above, but give it 3 chances to pass. By
-giving it 3 attempts to pass the test, the probability of failure drops
-from 1% to 0.0001%
+giving it 10 attempts to pass the test, the probability of failure drops
+from 1% to 0.0001%.
 
 ``` r
 set.seed(153)

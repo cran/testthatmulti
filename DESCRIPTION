@@ -1,8 +1,11 @@
 Package: testthatmulti
 Type: Package
 Title: Testing for R Packages with Multiple Attempts for Noisy Tests
-Version: 0.1.0
-Author: Collin Erickson
+Version: 0.2.0
+Authors@R: person(given = "Collin",
+                  family = "Erickson",
+                  role = c("aut", "cre"),
+                  email = "collinberickson@gmail.com")
 Maintainer: Collin Erickson <collinberickson@gmail.com>
 Description: Runs tests using the 'testthat' package but allows for multiple
     attempts for a single test. This is useful for noisy or flaky tests
@@ -10,11 +13,14 @@ Description: Runs tests using the 'testthat' package but allows for multiple
     such as numeric instability or using random data.
 License: GPL (>= 3)
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
+URL: https://github.com/CollinErickson/testthatmulti
+BugReports: https://github.com/CollinErickson/testthatmulti/issues
 Suggests: testthat (>= 3.0.0), rlang
 Config/testthat/edition: 3
 Language: en-US
 NeedsCompilation: no
-Packaged: 2024-02-03 23:13:41 UTC; colli
+Packaged: 2025-08-24 23:38:42 UTC; colli
+Author: Collin Erickson [aut, cre]
 Repository: CRAN
-Date/Publication: 2024-02-05 20:20:02 UTC
+Date/Publication: 2025-08-24 23:50:02 UTC
